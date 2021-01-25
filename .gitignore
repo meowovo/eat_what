@@ -12,4 +12,13 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
+
+# Binary directories
+bin/
+
+# Test directories
+t/
+
+# IDE directories
+.idea
